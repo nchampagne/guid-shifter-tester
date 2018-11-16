@@ -1,0 +1,16 @@
+{
+  "name": "change-ownership-tests",
+  "version": "1.0.0",
+  "description": "change ownership tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "SC",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
